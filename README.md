@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pandey1926" target="blank"><img src="https://img.shields.io/twitter/follow/pandey1926?logo=twitter&style=for-the-badge" alt="pandey1926" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Everything** xD
 
 - 📫 How to reach me **aspandey1904@gmail.com**
 
